@@ -26,6 +26,7 @@
 ## Country wise Cases (Bar graph Representation) 
 ![country wise](https://raw.githubusercontent.com/jhabarsingh/COTRACK/master/public/Selectionshot_2021-01-15_17%3A59%3A24.png)
 
+## Want To Contribute
 ### You can contribute to this project in many ways
  1. You can create an issue if you find any bug.
  2. You can work on an existing issue and Send PR.
