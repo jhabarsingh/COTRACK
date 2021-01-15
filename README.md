@@ -20,7 +20,7 @@
 ![Home Page](https://raw.githubusercontent.com/jhabarsingh/COTRACK/master/public/Selectionshot_2021-01-15_17%3A58%3A49.png)
 
 
-## World Cases Report (Graphical Representation)
+## World Cases (Graphical Representation)
 ![Login Page](https://github.com/jhabarsingh/COTRACK/blob/master/public/Selectionshot_2021-01-15_17:59:04.png?raw=true)
 
 ## Country wise Cases (Bar graph Representation) 
