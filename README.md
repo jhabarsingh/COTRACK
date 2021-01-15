@@ -7,10 +7,11 @@
   <summary>:zap: TECH STACK</summary>
   <br/>
   <div style="display:flex;justify-content:space-around">
-  <img titlt="Vuejs" src="https://vuejs.org/images/logo.png" width="50px" height="50px"  style="margin-right:5px;"/>
-  <img  title="Firebase" src="https://firebase.google.com/images/brand-guidelines/logo-vertical.png" width="50px" height="50px" style="margin-right:5px;" />
-  <img  title="Gsap" src="https://richcontentdesign.com/wp-content/uploads/2019/10/greensock@2x.png" height="50px"  style="margin-right:5px;"/>
-  <img title="Bootstrap"  src="https://obscureproblemsandgotchas.com/wp-content/uploads/2018/06/bootstrap-stack-e1530246058846.png" height="50px"  style="margin-right:5px;"/> 
+  <img title="Reactjs" src="https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png" width="50px" height="50px"  style="margin-right:5px;"/>
+  <img  title="React hooks" src="https://raw.githubusercontent.com/alDuncanson/react-hooks-snippets/master/icon.png" width="50px" height="50px" style="margin-right:5px;" />
+  <img  title="Material UI" src="https://miro.medium.com/max/560/1*jZtQFMYGgMvRkIje-Rm1gQ.png" height="50px"  style="margin-right:5px;"/>
+  <img title="Charjs"  src="https://www.chartjs.org/img/chartjs-logo.svg" height="50px"  style="margin-right:5px;"/> 
+    <img title="Axios"  src="https://i2.wp.com/digiday.com/wp-content/uploads/2017/01/axiosmainer2.jpg?resize=1030%2C438&ssl=1" height="50px"  style="margin-right:5px;"/> 
 </div>
 </details>
 
