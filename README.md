@@ -26,6 +26,15 @@
 ## Country wise Cases (Bar graph Representation) 
 ![country wise](https://raw.githubusercontent.com/jhabarsingh/COTRACK/master/public/Selectionshot_2021-01-15_17%3A59%3A24.png)
 
+## Setup On Desktop
+[Install node](https://nodejs.org/en/download/) 
+```bash
+ git clone https://github.com/jhabarsingh/COTRACK.git
+ cd COTRACK
+ npm install   # Node should be installed
+ npm run start
+```
+
 ## Want To Contribute
 ### You can contribute to this project in many ways
  1. You can create an issue if you find any bug.
