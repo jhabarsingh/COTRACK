@@ -35,7 +35,7 @@
  npm run start
 ```
 
-## [Want To Contribute](https://github.com/jhabarsingh/DSALGO-VISUALIZER)
+## [Want To Contribute](https://medium.com/mindsdb/contributing-to-an-open-source-project-how-to-get-started-6ba812301738)
 ### You can contribute to this project in many ways
  1. You can create an issue if you find any bug.
  2. You can work on an existing issue and Send PR.
