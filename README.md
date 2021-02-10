@@ -11,7 +11,8 @@
   <img  title="React hooks" src="https://raw.githubusercontent.com/alDuncanson/react-hooks-snippets/master/icon.png" width="50px" height="50px" style="margin-right:5px;" />
   <img  title="Material UI" src="https://miro.medium.com/max/560/1*jZtQFMYGgMvRkIje-Rm1gQ.png" height="50px"  style="margin-right:5px;"/>
   <img title="Charjs"  src="https://www.chartjs.org/img/chartjs-logo.svg" height="50px"  style="margin-right:5px;"/> 
-    <img title="Axios"  src="https://i2.wp.com/digiday.com/wp-content/uploads/2017/01/axiosmainer2.jpg?resize=1030%2C438&ssl=1" height="50px"  style="margin-right:5px;"/> 
+    <img title="Axios"  src="https://i2.wp.com/digiday.com/wp-content/uploads/2017/01/axiosmainer2.jpg?resize=1030%2C438&ssl=1" height="50px"  style="margin-right:5px;"/>
+    <img title="Netlify" src="https://www.netlify.com/img/press/logos/logomark.png" height="50px" style="margin-right:5px;" />
 </div>
 </details>
 
